@@ -29,7 +29,7 @@ deb http://extras.ubuntu.com/ubuntu/ xenial main
 * 找到LAMP server 空格选中 Tab键 回车
 * 安装workbench sudo apt-get install mysql-workbench
 * 启动MySQL服务 sudo /etc/init.d/mysql start
-* 连接到本机的MySQL sql -u root -p   密码：123456
+* 连接到本机的MySQL mysql -u root -p   密码：123456
 * 连接到远程主机上的MySQL mysql -h远程主机IP -u root -p密码
 * 退出MySQL exit 回车
 * 修改密码 mysqlladmin -u用户名 -p旧密码 password 新密码
