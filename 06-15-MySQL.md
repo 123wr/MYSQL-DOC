@@ -1,5 +1,5 @@
-*vim .vimrc   
-*在第三行输入a，删除18行内容
+* vim .vimrc   
+* 在第三行输入a，删除18行内容
 
 #### 更新源
 * sudo vim /etc/apt/sources.list
