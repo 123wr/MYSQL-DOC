@@ -48,6 +48,7 @@ deb http://extras.ubuntu.com/ubuntu/ xenial main
 * 显示字符串 select "welecom !";
 * 计算 select ((4+4)/10)+25;
 * 创建数据表 create table <表名> (<字段名> <类型>);
+* 支持中文 在建表时再最后加character set = utf8;
 * 查看表结构 desc 表名
 * 删除表 drop table <表名>
 * 在表中插入数据 insert into (<字段名>,<字段名>) values (值，……);
