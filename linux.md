@@ -18,11 +18,22 @@ tar xvf VMware Tools-9.…….tar.gz(解压)
 cd vmware-tools-
 sudo ./vmware-in……
 
-* mkdir c 新建文件夹c
+* mkdir c 新建目录c
 * vim hello.c 新建或打开hello.c
 * gcc hello.c -o hello 编译hello.c
 * ./hello 运行hello
 * rm -rf 文件名 删除
+* touch 文件名 新建文件
+* cp 文件名 新文件名/目录  复制文件
+* mv 文件名 新文件名 重命名
+* cat 文件名 查看文件内容
+* gzip 文件名 压缩
+* gunzip 文件名 解压
+* bzip2 文件名 压缩
+* bunzip2 文件名 解压
+* tar czvf 文件名.tar.gz dir 压缩
+* tar czvf 文件名.tar.bz2 dir 压缩
+* tar xvf 文件名.tar.gz 解压
 
 #### vim基本使用
 * i：在当前字符的左边插入
@@ -40,11 +51,3 @@ sudo ./vmware-in……
 * p: 粘贴内容到游标之后
 * P: 粘贴内容到游标之前
 * shift+：wq保存退出 q!强制退出 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
