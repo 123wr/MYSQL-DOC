@@ -22,7 +22,7 @@
 
 ## 远程仓库
 * git remote add origin https://github.com/123wr/Hello.git 添加到远程仓库
+* git push -u origin master 同步到远程仓库
 * git fetch origin 将远程仓库信息同步到本地
-* git push origin master 同步到远程仓库
 * git clone 地址 拉取到本地
 * git pull 更新本地代码
