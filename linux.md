@@ -8,15 +8,15 @@
 * sudo apt-get update 更新语言
 * sudo xrand -s 10 全屏
 > tools安装
->>cd /
->>cd media/linux
->>cd VMware\ Tools
->>cp VMware Tools-9.…….tar.gz ~/
->>pwd
->>cd 
->>tar xvf VMware Tools-9.…….tar.gz(解压)
->>cd vmware-tools-
->>sudo ./vmware-in……
+>> cd /
+cd media/linux
+cd VMware\ Tools
+cp VMware Tools-9.…….tar.gz ~/
+pwd
+cd 
+tar xvf VMware Tools-9.…….tar.gz(解压)
+cd vmware-tools-
+sudo ./vmware-in……
 
 * mkdir c 新建目录c
 * vim hello.c 新建或打开hello.c
