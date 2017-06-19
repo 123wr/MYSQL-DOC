@@ -25,3 +25,6 @@
 
 * install:
 * 	cp *.cgi /usr/lib/cgi-bin/sx/
+
+* （安装mysql的c语言库）sudo apt-get install libmysqlclient-dev
+* cp -r public/ index.heml /var/www/html
