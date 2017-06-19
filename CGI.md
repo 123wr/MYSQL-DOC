@@ -28,3 +28,7 @@
 
 * （安装mysql的c语言库）sudo apt-get install libmysqlclient-dev
 * cp -r public/ index.heml /var/www/html
+* make clean   
+* vim Makefile 
+* make
+* make install
