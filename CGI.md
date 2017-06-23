@@ -71,10 +71,8 @@
 * cp -r public/ index.heml /var/www/html
 
 ##### 乱码问题
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* mysql -u root -p 密码：123456
+* show variables like 'character%';
+* set character_set_server =utf8;
+* set character_set_database =utf8;
+* .c文件初始化中加入：mysql_optons(db,MYSQL_SET_CHARSET_NAME,"utf8");
