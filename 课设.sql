@@ -54,7 +54,9 @@ insert into Score (ino,cno,grade) values ('20002','11','86');
 insert into Score (ino,cno,grade) values ('20001','13','94');
 insert into Score (ino,cno,grade) values ('20003','14','90');
 
-
+SELECT * FROM stu.Information;
+update Information set statu = 1 where ino =20001;
+select * from Information where statu = 0
 
 
 
