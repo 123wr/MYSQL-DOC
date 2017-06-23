@@ -3,7 +3,7 @@
 
 #### 更新源
 * sudo vim /etc/apt/sources.list
->*用下列内容替换源列表中的内容
+>* 用下列内容替换源列表中的内容
 >>deb http://mirrors.aliyun.com/ubuntu/ xenial main restricted universe multiverse
 deb http://mirrors.aliyun.com/ubuntu/ xenial-security main restricted universe multiverse
 deb http://mirrors.aliyun.com/ubuntu/ xenial-updates main restricted universe multiverse
