@@ -2,8 +2,8 @@
 * mkdir 目录 新建目录存放仓库
 * cd 目录 进入目录
 * git init 将当前目录创建成仓库
-* touch readme 新建readme文件
-* vim readme 在readme文件中添加文字
+* touch readme.md 新建readme.md文件
+* vim readme.md 在readme.md文件中添加文字
 * git status 查看目录下文件状态
 * git add readme 讲readme文件加入仓库
 * git commit 提交
